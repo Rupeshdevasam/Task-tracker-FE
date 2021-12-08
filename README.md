@@ -1,4 +1,4 @@
-# trail
+# Task-tracker-FE
 
 ## Project setup
 ```
